@@ -1,0 +1,15 @@
+C:\Users\Uso Exclusivo\Desktop\curso C#\exercicios\exercicios-resolvidos-enum\exercicioEnum\exercicio1 - enum\bin\Debug\net6.0\exercicio1 - enum.exe
+C:\Users\Uso Exclusivo\Desktop\curso C#\exercicios\exercicios-resolvidos-enum\exercicioEnum\exercicio1 - enum\bin\Debug\net6.0\exercicio1 - enum.deps.json
+C:\Users\Uso Exclusivo\Desktop\curso C#\exercicios\exercicios-resolvidos-enum\exercicioEnum\exercicio1 - enum\bin\Debug\net6.0\exercicio1 - enum.runtimeconfig.json
+C:\Users\Uso Exclusivo\Desktop\curso C#\exercicios\exercicios-resolvidos-enum\exercicioEnum\exercicio1 - enum\bin\Debug\net6.0\exercicio1 - enum.dll
+C:\Users\Uso Exclusivo\Desktop\curso C#\exercicios\exercicios-resolvidos-enum\exercicioEnum\exercicio1 - enum\bin\Debug\net6.0\exercicio1 - enum.pdb
+C:\Users\Uso Exclusivo\Desktop\curso C#\exercicios\exercicios-resolvidos-enum\exercicioEnum\exercicio1 - enum\obj\Debug\net6.0\exercicio1 - enum.csproj.AssemblyReference.cache
+C:\Users\Uso Exclusivo\Desktop\curso C#\exercicios\exercicios-resolvidos-enum\exercicioEnum\exercicio1 - enum\obj\Debug\net6.0\exercicio1 - enum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Uso Exclusivo\Desktop\curso C#\exercicios\exercicios-resolvidos-enum\exercicioEnum\exercicio1 - enum\obj\Debug\net6.0\exercicio1 - enum.AssemblyInfoInputs.cache
+C:\Users\Uso Exclusivo\Desktop\curso C#\exercicios\exercicios-resolvidos-enum\exercicioEnum\exercicio1 - enum\obj\Debug\net6.0\exercicio1 - enum.AssemblyInfo.cs
+C:\Users\Uso Exclusivo\Desktop\curso C#\exercicios\exercicios-resolvidos-enum\exercicioEnum\exercicio1 - enum\obj\Debug\net6.0\exercicio1 - enum.csproj.CoreCompileInputs.cache
+C:\Users\Uso Exclusivo\Desktop\curso C#\exercicios\exercicios-resolvidos-enum\exercicioEnum\exercicio1 - enum\obj\Debug\net6.0\exercicio1 - enum.dll
+C:\Users\Uso Exclusivo\Desktop\curso C#\exercicios\exercicios-resolvidos-enum\exercicioEnum\exercicio1 - enum\obj\Debug\net6.0\refint\exercicio1 - enum.dll
+C:\Users\Uso Exclusivo\Desktop\curso C#\exercicios\exercicios-resolvidos-enum\exercicioEnum\exercicio1 - enum\obj\Debug\net6.0\exercicio1 - enum.pdb
+C:\Users\Uso Exclusivo\Desktop\curso C#\exercicios\exercicios-resolvidos-enum\exercicioEnum\exercicio1 - enum\obj\Debug\net6.0\exercicio1 - enum.genruntimeconfig.cache
+C:\Users\Uso Exclusivo\Desktop\curso C#\exercicios\exercicios-resolvidos-enum\exercicioEnum\exercicio1 - enum\obj\Debug\net6.0\ref\exercicio1 - enum.dll
